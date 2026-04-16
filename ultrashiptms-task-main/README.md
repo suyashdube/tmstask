@@ -2,9 +2,6 @@
 
 A POC AI system that allows users to upload logistics documents (PDF, DOCX, TXT) and interact with them using natural language questions. Built to simulate an AI assistant inside a Transportation Management System (TMS).
 
-## Live Demo
-
-**Hosted UI:** https://cargo-insight-5.preview.emergentagent.com
 
 ---
 
